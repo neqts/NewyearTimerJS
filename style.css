@@ -1,0 +1,51 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 10px;
+
+}
+
+body{
+    background-image: url(pexels-adriaan-greyling-764310.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 1100px;
+
+
+    
+}
+body > section{
+    justify-content: center;
+    text-align: center;
+    padding-top: 15%;
+}
+body > section > div{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  color: black;
+  padding-top: 2%;
+  
+
+}
+body > section > h1{
+    color: white;
+    font-size: 5rem;
+}
+Body > section > div{
+    color: white;
+    font-size: 4rem;
+}
+Body > section > div > div > span{
+
+    font-size: 3rem;
+    justify-content: center;
+    
+}
+Body > section > div > div {
+    margin-top: 50px;
+    font-weight: 500;
+}
